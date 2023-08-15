@@ -1,6 +1,6 @@
 {
-    "name": "Lofi",
-    "short_name": "Lofi",
+    "name": "Lofi Cabin",
+    "short_name": "Lofi Cab",
     "start_url": "index.html",
     "scope": "./",
     "icons": [
