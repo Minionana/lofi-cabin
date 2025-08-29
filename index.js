@@ -31,7 +31,7 @@ function onYouTubeIframeAPIReady() {
 
 function onPlayerReady(event) {
     player.loadPlaylist({
-        list: 'PLfLLIpJ53SP_JQuviwlZgTqVttaLHPU-7',
+        list: 'PLmjEOc6S-fIQiDKmUbbEi1gzGisYuvm7p',
         listType: 'playlist',
     })
     event.target.stopVideo();
